@@ -1,3 +1,3 @@
-# Canncer_Prediction_Using_Django
+# Cancer_Prediction_Using_Django
 
-Cancer prediction model created using Django
+Cancer prediction model created using Django framework and Python
